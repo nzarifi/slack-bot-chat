@@ -55,4 +55,6 @@ Once you have configured the environment variables and installed the necessary d
 
 These steps will help you effectively set up and utilize your Slack chatbot integrated with MongoDB and OpenAI for enhanced interactions in your Slack workspace.
 
+slack set up reference: https://www.youtube.com/watch?v=6gHvqXrfjuo&t=19s
+
 
